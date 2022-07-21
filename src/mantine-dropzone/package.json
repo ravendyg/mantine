@@ -1,7 +1,7 @@
 {
-  "name": "@mantine/dropzone",
+  "name": "@pegbo-mantine/dropzone",
   "description": "Dropzone component built with Mantine theme and components",
-  "version": "4.2.12",
+  "version": "4.2.13",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "lib/index.d.ts",

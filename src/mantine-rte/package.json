@@ -1,7 +1,7 @@
 {
-  "name": "@mantine/rte",
+  "name": "@pegbo-mantine/rte",
   "description": "Rich text editor built with Mantine components",
-  "version": "4.2.12",
+  "version": "4.2.13",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "lib/index.d.ts",

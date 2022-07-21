@@ -1,8 +1,8 @@
 {
-  "name": "@mantine/demos",
+  "name": "@pegbo-mantine/demos",
   "description": "Demos used in documentation",
   "private": true,
-  "version": "4.2.12",
+  "version": "4.2.13",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "lib/index.d.ts",

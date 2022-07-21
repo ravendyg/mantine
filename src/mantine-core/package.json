@@ -1,7 +1,7 @@
 {
-  "name": "@mantine/core",
+  "name": "@pegbo-mantine/core",
   "description": "React components library focused on usability, accessibility and developer experience",
-  "version": "4.2.12",
+  "version": "4.2.13",
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "lib/index.d.ts",
