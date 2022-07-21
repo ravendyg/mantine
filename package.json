@@ -1,5 +1,5 @@
 {
-  "name": "mantine",
+  "name": "pegbo-mantine",
   "private": true,
   "workspaces": [
     "src/*"
